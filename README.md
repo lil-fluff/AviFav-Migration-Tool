@@ -1,5 +1,9 @@
 # AviFav-Migration-Tool
 
+THIS REPOSITORY IS BEING ARCHIVED DUE TO INTERNAL CHANGES WITH THE API ON VRCHAT'S END.
+PLEASE UNDERSTAND THAT YOU TAKE THE FULL RISK OF ATTEMPTING TO DO ANYTHING FURTHER WITH THIS CODE.
+
+
 Hi, hello,
 Are you missing your old VRCTools AvatarFav list and want something to fix it?
 Then I have just the thing for you!
